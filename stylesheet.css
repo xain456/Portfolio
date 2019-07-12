@@ -1,0 +1,112 @@
+body {
+
+
+
+
+
+ /* The image used */
+    background-image: url("background.jpg");
+    /* Full height */
+    height: 150%;
+
+    /* Center and scale the image nicely */
+    background-repeat: no-repeat;
+     background-size: cover;
+        opacity: 0.8;
+
+    filter: alpha(opacity=30); /* For IE8 and earlier */
+}
+
+.intro {   text-decoration: ;
+opacity:0.99;
+filter: alpha(opacity=30);
+	background-color: grey;
+	width:43%;
+margin : 70px;
+padding: 70px;
+border: 50px;
+color: white;
+text-orientation: center;
+margin-bottom: 50px;
+border-radius: 50px;}
+
+span {
+
+
+	text-decoration: underline;
+	text-orientation: center;
+}
+
+.about {
+ padding:60px;
+	margin: 35px;
+	margin-top: 50px;
+opacity:0.99;
+   background-color: lightblue;
+   float: center;
+   width:70%;
+   height: 50%;
+   border-radius: 50px;
+}
+.image {
+float: right;
+width: 30%;
+height: 30%;
+
+}
+
+.services{
+
+background-color: lightgreen;
+padding: 20px;
+margin: 50px;
+border-radius:50px;
+
+
+}
+.frontend{
+width: 200px;
+height: 190px;
+}
+.cp     {
+
+width: 250px;
+height: 180px;}
+
+.contact {
+	background-color: lightblue;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.contact {
+align-content: center;
+padding: 25px;
+margin:50px;
+width: 30%;border-radius: 50px;
+
+}.connect {
+ align-content: center;
+ margin-left: 550px;
+float: center;
+
+
+}
